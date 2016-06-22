@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-file-transfer"
+    "url": "https://github.com/dvolland/cordova-plugin-file-transfer"
   },
   "keywords": [
     "cordova",
